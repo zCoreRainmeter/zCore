@@ -1,13 +1,13 @@
 <!-- START HeaderSmall.mustache -->
 <br />
 <div align="center">
-  <a href="https://github.com/Jax-Core/JaxCore">
-    <img src="https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Icons/JaxCore.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/zCoreRainmeter/zCore/">
+    <img src="https://raw.githubusercontent.com/zCoreRainmeter/zCore/main/%40Resources/Icons/_30de92c1-5b79-485c-b1ce-0b9a7669a2d1-removebg-preview.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">JaxCore</h3>
+<h3 align="center">zCore</h3>
   <p align="center">
-    A beautiful set of tools and widgets to spice up your desktop.
+    A beautiful set of tools and widgets to spice up your desktop, but better.
     <br />
     <a href="https://discord.gg/JmgehPSDD6">Help, Report Bugs & Request Features »</a>
   </p>
